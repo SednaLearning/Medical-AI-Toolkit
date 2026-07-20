@@ -1,0 +1,176 @@
+# ISO 14971:2019 Checklist
+
+---
+## RM-001
+**Reference:**
+ISO 14971:2019 – Clause 4 (General requirements for risk management)
+**Topic:**
+Risk management process
+**Requirement summary:**
+The manufacturer shall establish, document, and maintain a risk management process that is appropriate to the risk associated with the medical device.
+**Assessment criteria:**
+Verify that:
+- a documented risk management process exists and is approved;
+- the process defines the scope (e.g., product types, lifecycle phases);
+- responsibilities for risk management activities are clearly assigned;
+- the process integrates risk management into the quality management system (QMS);
+- the process covers all lifecycle phases (design, production, post-market).
+**Expected evidence:**
+- Risk Management Procedure (SOP)
+- Risk Management Plan (for specific products/projects)
+- QMS documentation (e.g., integration with ISO 13485)
+- Organizational charts or role descriptions
+**Common findings:**
+- Missing or incomplete risk management procedure.
+- No clear assignment of risk management responsibilities.
+- Lifecycle phases (e.g., post-market surveillance) are excluded.
+- No linkage to design controls or CAPA processes.
+**Reviewer notes:**
+
+---
+## RM-002
+**Reference:**
+ISO 14971:2019 – Clause 5 (Risk analysis)
+**Topic:**
+Risk analysis
+**Requirement summary:**
+The manufacturer shall identify known and foreseeable hazards, estimate the associated risks, and document the risk analysis process.
+**Assessment criteria:**
+Verify that:
+- hazards and hazardous situations are systematically identified (e.g., using FMEA, HAZOP, or brainstorming);
+- intended use and foreseeable misuse are considered;
+- risk estimation (severity and probability) is performed for each hazard;
+- risk analysis is documented (e.g., in a risk analysis report).
+**Expected evidence:**
+- Risk Analysis Report
+- FMEA/HAZOP records
+- Use cases and misuse scenarios
+- Design inputs (e.g., intended use statements)
+**Common findings:**
+- Hazards are not comprehensively identified.
+- Severity/probability scales are not defined or inconsistent.
+- Foreseeable misuse is not addressed.
+- Risk analysis is not updated after design changes.
+**Reviewer notes:**
+
+---
+## RM-003
+**Reference:**
+ISO 14971:2019 – Clause 6 (Risk evaluation)
+**Topic:**
+Risk evaluation
+**Requirement summary:**
+The manufacturer shall evaluate the risks based on the risk analysis and determine if risk reduction is required.
+**Assessment criteria:**
+Check whether:
+- risk acceptability criteria are defined (e.g., risk matrix);
+- risks are compared against the criteria;
+- decisions on risk acceptability are documented;
+- justification is provided for risks that are not reduced.
+**Expected evidence:**
+- Risk Evaluation Report
+- Risk matrix with acceptability thresholds
+- Minutes of risk review meetings
+**Common findings:**
+- No defined risk acceptability criteria.
+- Risks are not reevaluated after changes.
+- Justifications for acceptable risks are missing.
+**Reviewer notes:**
+
+---
+## RM-004
+**Reference:**
+ISO 14971:2019 – Clause 7 (Risk control)
+**Topic:**
+Risk control
+**Requirement summary:**
+The manufacturer shall implement risk control measures to reduce risks to acceptable levels and verify their effectiveness.
+**Assessment criteria:**
+Check whether:
+- risk control measures are identified and implemented (e.g., design changes, warnings, training);
+- residual risks are estimated after controls are applied;
+- risk control measures do not introduce new hazards;
+- verification of risk control effectiveness is documented.
+**Expected evidence:**
+- Risk Control Plan
+- Design verification/validation records
+- Test reports (e.g., usability testing, biocompatibility)
+- Updated risk assessment after controls
+**Common findings:**
+- Risk controls are not linked to identified hazards.
+- No verification of control effectiveness.
+- New hazards introduced by controls are not assessed.
+**Reviewer notes:**
+
+---
+## RM-005
+**Reference:**
+ISO 14971:2019 – Clause 8 (Evaluation of overall residual risk)
+**Topic:**
+Overall residual risk
+**Requirement summary:**
+The manufacturer shall evaluate the overall residual risk and ensure it is acceptable.
+**Assessment criteria:**
+Check whether:
+- overall residual risk is assessed (considering all hazards and controls);
+- the assessment includes cumulative effects of multiple risks;
+- the decision on acceptability is documented;
+- residual risks are communicated to users if necessary.
+**Expected evidence:**
+- Overall Residual Risk Assessment Report
+- Risk management review meeting minutes
+- Labeling (e.g., warnings, precautions)
+**Common findings:**
+- Cumulative risks are not considered.
+- No documentation of overall residual risk acceptability.
+- Missing communication of residual risks to users.
+**Reviewer notes:**
+
+---
+## RM-006
+**Reference:**
+ISO 14971:2019 – Clause 9 (Risk management review)
+**Topic:**
+Risk management review
+**Requirement summary:**
+The manufacturer shall review the risk management process and its outputs at planned intervals and after significant changes.
+**Assessment criteria:**
+Check whether:
+- reviews are conducted at defined intervals (e.g., design reviews, post-market);
+- review inputs include new information (e.g., complaints, field data);
+- review outputs are documented (e.g., updated risk assessments);
+- management is involved in the review process.
+**Expected evidence:**
+- Risk Management Review Reports
+- Meeting minutes (e.g., design reviews, PMS reviews)
+- Updated risk management files
+**Common findings:**
+- Reviews are not conducted at required intervals.
+- New information (e.g., post-market data) is not incorporated.
+- No management involvement in reviews.
+**Reviewer notes:**
+
+---
+## RM-007
+**Reference:**
+ISO 14971:2019 – Clause 10 (Production and post-production information)
+**Topic:**
+Post-market surveillance (PMS) and production monitoring
+**Requirement summary:**
+The manufacturer shall collect and analyze production and post-production information to identify new hazards or risks.
+**Assessment criteria:**
+Check whether:
+- a process exists to collect post-market data (e.g., complaints, vigilance reports);
+- production data (e.g., non-conformities, trends) is monitored;
+- new hazards/risks identified from PMS are assessed and addressed;
+- PMS findings are fed back into the risk management process.
+**Expected evidence:**
+- Post-Market Surveillance (PMS) Plan
+- Complaint handling records
+- Vigilance reports (e.g., MDR/IVDR reports)
+- CAPA records linked to PMS findings
+**Common findings:**
+- No systematic collection of post-market data.
+- PMS findings are not linked to risk management.
+- No feedback loop to design or production.
+**Reviewer notes:**
