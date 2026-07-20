@@ -1,0 +1,10 @@
+# Temporäre Dateien von Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code Einstellungen
+.vscode/
+
+# Temporäre Dateien
+*.tmp
+*.bak
